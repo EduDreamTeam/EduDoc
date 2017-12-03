@@ -4,6 +4,6 @@
 
 1. Расширения для браузера - Edu Plugin (https://github.com/EduDreamTeam/edu-plugin)
 2. Web приложения - Edu Web Client (https://github.com/EduDreamTeam/edu-web-client)
-3. Сервер, обрабатывающий запросы расширения и web приложения - Edu Server (https://github.com/EduDreamTeam/edu-server)
+3. Сервера, обрабатывающего запросы расширения и web приложения - Edu Server (https://github.com/EduDreamTeam/edu-server)
 
 
